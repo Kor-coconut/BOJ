@@ -1,3 +1,3 @@
 # BOJ 문제 코드
 
-리뷰,  : jeonghoo.kro.kr
+리뷰, 풀이 : http://jeonghoo.kro.kr
