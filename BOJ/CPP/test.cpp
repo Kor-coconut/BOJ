@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 
-using namespace std;
-
+using namespace std; 
+ 
 void solve(){
     int n, m;
     int tmp;
