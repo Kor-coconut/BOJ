@@ -1,4 +1,4 @@
-//BOJ 2131
+//BOJ 2231
 //분해합
 #include <iostream>
 
